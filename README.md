@@ -1,1 +1,3 @@
-# the-numbers-game-master
+# Multiplayer Numbers Game
+
+Have fun!
